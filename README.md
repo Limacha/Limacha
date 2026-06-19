@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limacha)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limacha)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Limacha&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Limacha&theme=dark&hide_border=true&layout=compact)
 <!-- ![alt](lien image) -->
